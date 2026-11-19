@@ -1,0 +1,12 @@
+{
+  "name": "StyleForge",
+  "short_name": "StyleForge",
+  "description": "A friendly workshop for CSS, SVG, shader effects and page building",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0e1a",
+  "theme_color": "#0b0e1a",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
